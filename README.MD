@@ -2,6 +2,10 @@ Developer: Akshay Joshi,
            Tanvi Kopardekar
 
 
+Description:
+This App lets you login into your Github/Bitbucket account and lets you manage them. This app lets you view the repositories you are keeping track of. This is a simple app and still in development please feel free to comment on for adding new features.
+
+
 DISCLAIMER:
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
