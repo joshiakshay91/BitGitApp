@@ -1,2 +1,2 @@
-Developer: Akshay Joshi
+Developer: Akshay Joshi,
            Tanvi Kopardekar
