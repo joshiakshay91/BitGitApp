@@ -1,6 +1,7 @@
 Developer: Akshay Joshi,
            Tanvi Kopardekar
 
+Contact: BitGitApp@gmail.com
 
 Description:
 This App lets you login into your Github/Bitbucket account and lets you manage them. This app lets you view the repositories you are keeping track of. This is a simple app and still in development please feel free to comment on for adding new features.
