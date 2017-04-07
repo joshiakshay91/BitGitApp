@@ -1,2 +1,3 @@
-Akshay Joshi
-Tanvi Kopardekar
+
+* Akshay Joshi
+* Tanvi Kopardekar
